@@ -27,4 +27,4 @@
 
 ### 📬 Get in Touch
  
- 👉 Feel free to drop a message at [fahadimran7810@gmail.com](mailto:fahadimran7810@gmail.com) or connect on LinkedIn at [linkedin.com/fahadimran7](https://linkedin.com/in/fahadimran7) 
+ 👉 Feel free to drop a message at [fahadimran7455@gmail.com](mailto:fahadimran7810@gmail.com) or connect on LinkedIn at [linkedin.com/fahadimran7](https://linkedin.com/in/fahadimran7) 
