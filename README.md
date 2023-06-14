@@ -8,8 +8,6 @@
 
 ### ⚡ Tools and Technologies
 
-Technologies I am familiar with:
-
 <p>
   <img src="./upload/html-1.svg" width="42"/>
   &nbsp; &nbsp;
