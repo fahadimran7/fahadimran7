@@ -4,7 +4,7 @@
 - 🏫 Bachelors in Software Engineering from SEECS, [NUST](https://nust.edu.pk/).
 - 👀 I’m interested in Web Development, Product Design & Mobile Apps.
 - 🚀 I’m currently exploring Flutter & MERN Stack.
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/fahadimran7/) | [Email](mailto:fahadimran7@outlook.com).
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/fahadimran7/) | [Email](mailto:fahadimran7455@gmail.com).
 
 ### ⚡ Tools and Technologies
 
