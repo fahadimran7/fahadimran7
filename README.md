@@ -1,12 +1,12 @@
 ## 👋 Hi there! I am Fahad Imran
 
-- 👨‍💻 I'm a Full Stack Engineer from Islamabad, Pakistan.
+- 👨‍💻 I'm a Frontend Engineer from Islamabad, Pakistan.
 - 🏫 Bachelors in Software Engineering from SEECS, [NUST](https://nust.edu.pk/).
-- 👀 I’m interested in Web Development, Product Design & Mobile Apps.
-- 🚀 I’m currently exploring Flutter & MERN Stack.
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/fahadimran7/) | [Email](mailto:fahadimran6523@gmail.com).
+- 👀 I’m interested in App Development, Design Patterns & UX Design.
+- 🚀 I’m currently exploring Flutter & React.
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/fahadimran7/) | [Email](mailto:fahadimran661@gmail.com).
 
-### ⚡ Tools and Technologies
+### ✅ Tools and Technologies
 
 <p>
   <img src="./upload/html-1.svg" width="42"/>
