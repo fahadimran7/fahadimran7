@@ -4,7 +4,7 @@
 - 🏫 Bachelors in Software Engineering from SEECS, [NUST](https://nust.edu.pk/).
 - 👀 I’m interested in App Development, Design Patterns & UX Design.
 - 🚀 I’m currently exploring Flutter & React.
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/fahadimran7/) | [Email](mailto:fahadimran661@gmail.com).
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/fahadimran7/)
 
 ### ✅ Tools and Technologies
 
