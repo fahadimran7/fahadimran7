@@ -1,10 +1,10 @@
 ## 👋 Hi there! I am Fahad
 
-- 👨‍💻 I'm a Frontend Engineer from Islamabad, Pakistan.
+- 👨‍💻 I'm a Frontend Engineer from Pakistan.
 - 🏫 Bachelors in Software Engineering from SEECS, [NUST](https://nust.edu.pk/).
-- 👀 I’m interested in Frontend Web and App Development.
+- 👀 I’m interested in clean code, best practices, and software architecture.
 - 🚀 I’m currently exploring Next.js and React Native.
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/fahadimran7/) | [Email](mailto:fahadimran.office@gmail.com)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/fahadimran7/) | [Email](mailto:fahadimran1723@gmail.com)
 
 ### ✅ Tools and Technologies
 
