@@ -4,7 +4,7 @@
 - 🏫 Bachelors in Software Engineering from SEECS, [NUST](https://nust.edu.pk/).
 - 👀 I’m interested in Frontend Development, React.js & JavaScript.
 - 🚀 I’m currently exploring Next.js and React Native.
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/fahadimran7/) | [Email](mailto:fahadimran1777@gmail.com)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/fahadimran7/) | [Email](mailto:fimran.bese18seecs@seecs.edu.pk)
 
 ### ✅ Tools and Technologies
 
